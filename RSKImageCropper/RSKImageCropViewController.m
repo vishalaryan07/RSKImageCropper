@@ -30,7 +30,7 @@
 #import "CGGeometry+RSKImageCropper.h"
 #import "UIApplication+RSKImageCropper.h"
 
-static const CGFloat kPortraitCircleMaskRectInnerEdgeInset = 15.0f;
+static const CGFloat kPortraitCircleMaskRectInnerEdgeInset = 100.0f;
 static const CGFloat kPortraitSquareMaskRectInnerEdgeInset = 20.0f;
 static const CGFloat kPortraitMoveAndScaleLabelVerticalMargin = 64.0f;
 static const CGFloat kPortraitCancelAndChooseButtonsHorizontalMargin = 13.0f;
